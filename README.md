@@ -1,2 +1,2 @@
-# 一个用于markdown的图传
+# 一个用于markdown的图床
 # it's a gragh bed for markdown
